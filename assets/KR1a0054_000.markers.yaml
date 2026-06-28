@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR1a0054/bkk/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: variant, offset: 0, length: 0, content: '', SBCK: 第}
+  back: []
+hash: sha256:e9c46da4cb1f367f87877f51e7d7dde4b7dd41f4a27c202e80db994c705917e8

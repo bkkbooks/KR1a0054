@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0054/SBCK/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至
+  hash: sha256:65edbf9f1c677e70a6485189d9e74a1881dca88a536210881f5103d11af63c2b
+metadata:
+  title: 周易要義
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 21:55:39.086855'
+  source:
+    repository: kanripo
+    path: KR1a0054/KR1a0054_009.txt
+hash: sha256:35469a5772d5c173489f48f79677adefe46cd089abc682aa59f939df3774490f

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0054/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易要義
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 21:55:39.086855'
+  source:
+    repository: kanripo
+    path: KR1a0054/KR1a0054_000.txt
+hash: sha256:46a9bb15ddd6ab6d0ab723a13d9119b8caa317c7085c917f20f4d760e148a328

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0054/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易要義
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-08-24 21:55:39.086855'
+  source:
+    repository: kanripo
+    path: KR1a0054/KR1a0054_000.txt
+hash: sha256:9ccd0d2b748c5ad00e9f8d0afa99cec552f27c6fd5b680413bf5d313892daea6
