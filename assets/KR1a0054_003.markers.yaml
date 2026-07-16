@@ -9,6 +9,7 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR1a0054_SBCK_000-2a}
   - {type: punctuation, offset: 4, content: (, id: KR1a0054_krp_003-bkkpn1}
   - {type: variant, offset: 4, length: 2, content: 綱領, SBCK: 序上正義人姓名正觀討覈永徽刋定}
+  - {type: 'voice:problem', offset: 4, length: 0, id: KR1a0054_bkk_003-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 4}
   body:
   - {type: punctuation, offset: 0, content: /, id: KR1a0054_krp_003-bkkpn1}
   - {type: punctuation, offset: 0, content: ), id: KR1a0054_krp_003-bkkpn2}
@@ -17,6 +18,7 @@ markers:
       ', id: KR1a0054_krp_003-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR1a0054_WYG_003-1a02}
   - {type: indent, offset: 0, content: 　　, id: KR1a0054_krp_003-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR1a0054_bkk_003-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: 'kr:newline', offset: 6, content: '
 
       ', id: KR1a0054_krp_003-bkkkrnewl2}
@@ -1191,4 +1193,4 @@ markers:
   - {type: page-break, offset: 3494, content: '', id: KR1a0054_SBCK_000-15a}
   - {type: page-break, offset: 3494, content: '', id: KR1a0054_SBCK_000-15b}
   back: []
-hash: sha256:6cf9fd3099e870c92a9e90102f77181c01edc75766f73addcb58ce8bfa6f2ba6
+hash: sha256:8a877b1f5fb4d9aa948b112ee81abc8424fc87f2afeac39649ee20c9f6727cb0
